@@ -1,0 +1,6 @@
+c:\users\rociovera\documents\visual studio 2012\Projects\Appsumapromedio\Appsumapromedio\bin\Debug\Appsumapromedio.exe.config
+c:\users\rociovera\documents\visual studio 2012\Projects\Appsumapromedio\Appsumapromedio\bin\Debug\Appsumapromedio.exe
+c:\users\rociovera\documents\visual studio 2012\Projects\Appsumapromedio\Appsumapromedio\bin\Debug\Appsumapromedio.pdb
+c:\users\rociovera\documents\visual studio 2012\Projects\Appsumapromedio\Appsumapromedio\obj\Debug\Appsumapromedio.csprojResolveAssemblyReference.cache
+c:\users\rociovera\documents\visual studio 2012\Projects\Appsumapromedio\Appsumapromedio\obj\Debug\Appsumapromedio.exe
+c:\users\rociovera\documents\visual studio 2012\Projects\Appsumapromedio\Appsumapromedio\obj\Debug\Appsumapromedio.pdb
